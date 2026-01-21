@@ -8,7 +8,7 @@ Soy de Montevideo, Uruguay 🇺🇾. Bachiller Tecnológico en Informática egre
 
 Mi enfoque no es solo escribir código, sino entender dónde y cómo se ejecuta. Me gusta hacer lo que me apasiona, y lo que me llena es la programación: aprender para crear y mejorar software, resolver problemas y eficientar procesos aportando valor real.
 
-Me atrae mucho la infraestructura, la automatización y la eficiencia operativa. Actualmente profundizando en el ecosistema **Linux** y metodologías **SRE**.
+Me atrae mucho la infraestructura, la automatización y la eficiencia operativa. Actualmente profundizando en el ecosistema Linux y metodologías SRE.
 
 * 🌱 **Aprendiendo:** Redes, manejo avanzado de la terminal, gestión de procesos y finanzas.
 * 🐧 **Mi entorno:** Fedora Linux.
