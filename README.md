@@ -1,35 +1,34 @@
-### Hola, soy Ezequiel Revello 👋
+### Hi there, I'm Ezequiel Revello 👋
 
 ---
 
-### 👨‍💻 Un poco sobre mí
+### 👨‍💻 About Me
 
-Soy de Montevideo, Uruguay 🇺🇾. Bachiller Tecnológico en Informática egresado, transicionando a la carrera de Ingeniería en Computación en la FING (UdelaR).
+I'm a software enthusiast from Montevideo, Uruguay 🇺🇾. I'm currently transitioning into Computer Engineering at FING (UdelaR).
 
-Mi enfoque no es solo escribir código, sino entender dónde y cómo se ejecuta. Me gusta hacer lo que me apasiona, y lo que me llena es la programación: aprender para crear y mejorar software, resolver problemas y eficientar procesos aportando valor real.
+For me, code is a means to an end, not the end itself. My focus isn't just on writing lines of code, but on understanding the entire lifecycle of where and how it runs. I'm driven by building software that solves real-world problems and streamlines processes to deliver genuine value.
 
-Me atrae mucho la infraestructura, la automatización y la eficiencia operativa. Actualmente profundizando en el ecosistema Linux y metodologías SRE.
+I'm deeply interested in **infrastructure, automation, and operational efficiency**. Currently, I'm diving deep into the Linux ecosystem and SRE (Site Reliability Engineering) methodologies.
 
-* 🌱 **Aprendiendo:** Redes, manejo avanzado de la terminal, gestión de procesos y finanzas.
-* 🐧 **Mi entorno:** Fedora Linux.
-* ⚡ **Dato curioso:** Linux fue el primer sistema operativo que toqué en una computadora.
+* 🌱 **Currently Learning:** Networking, advanced CLI/Terminal mastery, process management, and finance.
+* 🐧 **My Environment:** Fedora Linux.
+* ⚡ **Fun Fact:** Linux was the very first operating system I ever used on a computer.
 
 ---
 
-### 📚 Libros
+### 📚 Reading List
 
-Me gusta combinar la ingeniería con el emprendimiento. Algunos libros que han moldeado mi forma de pensar:
+I enjoy bridging the gap between engineering and entrepreneurship. These are some books that have shaped my mindset:
 
-* *Rework* - Jason Fried
-* *The Mom Test* - Rob Fitzpatrick
-* *100M Offers* - Alex Hormozi
-* *Padre Rico, Padre Pobre* - Robert Kiyosaki
+* *Rework* – Jason Fried
+* *The Mom Test* – Rob Fitzpatrick
+* *100M Offers* – Alex Hormozi
+* *Rich Dad Poor Dad* – Robert Kiyosaki
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezerevello&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="Mis Estadisticas" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezerevello&layout=compact&theme=gotham&hide_border=true&langs_count=6" height="150" alt="Top Languages" /> -->
+<img src="[https://github-readme-stats.vercel.app/api?username=ezerevello&show_icons=true&theme=gotham&hide_border=true&count_private=true]()" height="150" alt="My Stats" />
 </div>
