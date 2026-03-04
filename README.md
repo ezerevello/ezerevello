@@ -6,7 +6,7 @@
 
 I'm a software enthusiast from Montevideo, Uruguay 🇺🇾, currently pursuing my degree in **Computer Engineering at FING (UdelaR)**.
 
-For me, **code is a means to an end, not the end itself.** My focus isn't just on writing lines of code, but on understanding the entire lifecycle of where and how it runs. I'm driven by building software that solves real-world problems and streamlines processes to deliver genuine value.
+**Code is a means to an end, not the end itself.** My focus isn't just on writing lines of code, but on understanding the entire lifecycle of where and how it runs. I'm driven by building software that solves real-world problems and streamlines processes to deliver genuine value.
 
 I'm deeply interested in **optimization, operational efficiency, automation, and infrastructure.**
 * 🌱 **Currently Learning:** Advanced CLI/Terminal, Process Management, and Financial Systems.
