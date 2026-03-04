@@ -4,13 +4,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a software enthusiast from Montevideo, Uruguay 🇺🇾. I'm currently transitioning into Computer Engineering at FING (UdelaR).
+I'm a software enthusiast from Montevideo, Uruguay 🇺🇾, currently transitioning into Computer Engineering at FING (UdelaR).
 
 For me, code is a means to an end, not the end itself. My focus isn't just on writing lines of code, but on understanding the entire lifecycle of where and how it runs. I'm driven by building software that solves real-world problems and streamlines processes to deliver genuine value.
 
-I'm deeply interested in **infrastructure, automation, and operational efficiency**. Currently, I'm diving deep into the Linux ecosystem and SRE (Site Reliability Engineering) methodologies.
+I'm strongly interested in **optimization, operational efficiency, automation, and infrastructure.** Currently, I'm delving deeper into software optimization tools.
 
-* 🌱 **Currently Learning:** Networking, advanced CLI/Terminal mastery, process management, and finance.
+* 🌱 **Currently Learning:** advanced CLI/Terminal mastery, process management, and finance.
 * 🐧 **My Environment:** Fedora Linux.
 * ⚡ **Fun Fact:** Linux was the very first operating system I ever used on a computer.
 
