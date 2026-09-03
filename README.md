@@ -8,6 +8,8 @@ I'm a software developer and maker from Montevideo, Uruguay 🇺🇾, currently 
 
 More than just a programmer, I consider myself a problem solver and a founder. For me, code is the means to an end, not the end itself. I approach challenges from first principles, focusing on building solutions that actually work in the real world. My ultimate goal is to create tools and systems that streamline workflows, making life and work easier for people and businesses!
 
+I mainly build private projects, so you won't see many public repos here 😝
+
 I'm deeply interested in optimization, operational efficiency, AI orchestration, and cloud architecture.
 * 🌱 **Currently Exploring:** AI workflows, advanced process management, and scalable cloud deployments.
 * 🐧 **My Environment:** Fedora KDE Plasma & NixOS (fun fact: Linux was the first OS I ever used!).
